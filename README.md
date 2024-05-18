@@ -1,3 +1,3 @@
-**Resume in JSON Format**
+1. **Resume in JSON Format**
 
-Iteration of JSON Data by using loops.
+2. Iteration of JSON Data by using loops.
